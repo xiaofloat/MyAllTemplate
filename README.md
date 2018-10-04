@@ -1,1 +1,1 @@
-# MyAllTemplate
+所有的框架架构模板
